@@ -3398,6 +3398,7 @@ input, select, textarea {
 		}
 
 		.panel.spotlight .content {
+		.panel.spotlight .content {
 			display: -moz-flex;
 			display: -webkit-flex;
 			display: -ms-flex;
